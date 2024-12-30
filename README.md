@@ -4,10 +4,10 @@
 
 <hr>
 
-[![Portfolio][(https://img.shields.io/badge/-Portfolio--Website-0e76a8?style=flat&labelColor=0e76a8&logoColor=white)](https://dhairya-thakkar.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio--Website-0e76a8?style=flat&labelColor=0e76a8&logoColor=white)](https://dhairya-thakkar.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-thakkar-5b9031179)
-<!-- <h4>Reach me out on the below handles</h4>
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dhairyathakkar79@gmail.com)
+<!-- <h4>Reach me out on the below handles</h4>
 
 <hr>
 <h3>Technologies that I use</h3>
