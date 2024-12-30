@@ -27,7 +27,7 @@
 ![Jest](https://img.shields.io/badge/jest-%23121011.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestJS-%23121011.svg?style=for-the-badge&logo=nestJS&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23121011.svg?style=for-the-badge&logo=express&logoColor=white)
-
+![MaterialUI](https://img.shields.io/badge/mui-%23121011.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 <hr>
 
