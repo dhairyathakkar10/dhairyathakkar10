@@ -3,14 +3,15 @@
 <h3 align="center">Enthusiastic engineer with a passion for learning and developing innovative real-world applications, with a keen interest in web development. Eager to contribute and create impact for the organization and expand my skill set as i pursue excellence in the field of engineering.</h3>
 
 <hr>
+<h4>Reach me out on the below handles</h4>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio--Website-0e76a8?style=flat&labelColor=0e76a8&logoColor=white)](https://dhairya-thakkar.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairya-thakkar-5b9031179)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dhairyathakkar79@gmail.com)
-<!-- <h4>Reach me out on the below handles</h4>
 
 <hr>
 <h3>Technologies that I use</h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 [HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
